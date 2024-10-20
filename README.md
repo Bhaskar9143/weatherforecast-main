@@ -59,6 +59,3 @@ This Flask-based web application provides current weather information and histor
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
