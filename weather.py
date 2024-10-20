@@ -11,7 +11,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
 # Replace with your actual API key
-API_KEY = '77062f0771e8b4beecfbab171e6da028'  # Make sure to replace this with your actual API key
+API_KEY = 'your_api_key'  # Make sure to replace this with your actual API key
 
 # List of Indian cities with their coordinates
 cities = {
